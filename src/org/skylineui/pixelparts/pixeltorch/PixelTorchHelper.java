@@ -3,13 +3,13 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.evolution.pixelparts.pixeltorch;
+package org.skylineui.pixelparts.pixeltorch;
 
 import android.content.SharedPreferences;
 import android.hardware.camera2.CameraAccessException;
 import android.hardware.camera2.CameraManager;
 
-import org.evolution.pixelparts.Constants;
+import org.skylineui.pixelparts.Constants;
 
 public class PixelTorchHelper {
 

@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.evolution.pixelparts.chargecontrol;
+package org.skylineui.pixelparts.chargecontrol;
 
 import android.os.Bundle;
 

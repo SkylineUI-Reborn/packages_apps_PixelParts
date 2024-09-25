@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.evolution.pixelparts.saturation;
+package org.skylineui.pixelparts.saturation;
 
 import android.app.PendingIntent;
 import android.content.Intent;

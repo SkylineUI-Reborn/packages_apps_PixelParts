@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.evolution.pixelparts.pixeltorch;
+package org.skylineui.pixelparts.pixeltorch;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -13,8 +13,8 @@ import android.service.quicksettings.TileService;
 
 import androidx.preference.PreferenceManager;
 
-import org.evolution.pixelparts.Constants;
-import org.evolution.pixelparts.R;
+import org.skylineui.pixelparts.Constants;
+import org.skylineui.pixelparts.R;
 
 public class PixelTorchTileService extends TileService {
 

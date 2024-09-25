@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-package org.evolution.pixelparts;
+package org.skylineui.pixelparts;
 
 import android.app.Activity;
 import android.content.ComponentName;
@@ -14,10 +14,10 @@ import android.provider.Settings;
 import android.service.quicksettings.TileService;
 import android.util.Log;
 
-import org.evolution.pixelparts.autohbm.AutoHbmActivity;
-import org.evolution.pixelparts.autohbm.AutoHbmTileService;
-import org.evolution.pixelparts.pixeltorch.PixelTorchActivity;
-import org.evolution.pixelparts.pixeltorch.PixelTorchTileService;
+import org.skylineui.pixelparts.autohbm.AutoHbmActivity;
+import org.skylineui.pixelparts.autohbm.AutoHbmTileService;
+import org.skylineui.pixelparts.pixeltorch.PixelTorchActivity;
+import org.skylineui.pixelparts.pixeltorch.PixelTorchTileService;
 
 public final class TileHandlerActivity extends Activity {
     private static final String TAG = "TileHandlerActivity";

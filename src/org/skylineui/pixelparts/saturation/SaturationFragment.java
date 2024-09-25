@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.evolution.pixelparts.saturation;
+package org.skylineui.pixelparts.saturation;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -27,10 +27,10 @@ import androidx.viewpager.widget.ViewPager;
 
 import com.android.settingslib.widget.LayoutPreference;
 
-import org.evolution.pixelparts.Constants;
-import org.evolution.pixelparts.CustomSeekBarPreference;
-import org.evolution.pixelparts.R;
-import org.evolution.pixelparts.utils.TileUtils;
+import org.skylineui.pixelparts.Constants;
+import org.skylineui.pixelparts.CustomSeekBarPreference;
+import org.skylineui.pixelparts.R;
+import org.skylineui.pixelparts.utils.TileUtils;
 
 import java.util.Arrays;
 

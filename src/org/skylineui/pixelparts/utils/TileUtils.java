@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.evolution.pixelparts.utils;
+package org.skylineui.pixelparts.utils;
 
 import android.app.StatusBarManager;
 import android.content.ComponentName;
@@ -11,7 +11,7 @@ import android.content.Context;
 import android.graphics.drawable.Icon;
 import android.widget.Toast;
 
-import org.evolution.pixelparts.R;
+import org.skylineui.pixelparts.R;
 
 public class TileUtils {
 

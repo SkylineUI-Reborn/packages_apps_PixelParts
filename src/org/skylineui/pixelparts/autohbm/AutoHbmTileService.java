@@ -3,16 +3,16 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.evolution.pixelparts.autohbm;
+package org.skylineui.pixelparts.autohbm;
 
 import android.content.SharedPreferences;
 import android.service.quicksettings.Tile;
 import android.service.quicksettings.TileService;
 import androidx.preference.PreferenceManager;
 
-import org.evolution.pixelparts.Constants;
-import org.evolution.pixelparts.R;
-import org.evolution.pixelparts.utils.FileUtils;
+import org.skylineui.pixelparts.Constants;
+import org.skylineui.pixelparts.R;
+import org.skylineui.pixelparts.utils.FileUtils;
 
 public class AutoHbmTileService extends TileService {
 

@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.evolution.pixelparts;
+package org.skylineui.pixelparts;
 
 public class Constants {
 

@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.evolution.pixelparts.chargecontrol;
+package org.skylineui.pixelparts.chargecontrol;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -18,10 +18,10 @@ import androidx.preference.PreferenceManager;
 
 import com.android.settingslib.widget.MainSwitchPreference;
 
-import org.evolution.pixelparts.Constants;
-import org.evolution.pixelparts.CustomSeekBarPreference;
-import org.evolution.pixelparts.R;
-import org.evolution.pixelparts.utils.FileUtils;
+import org.skylineui.pixelparts.Constants;
+import org.skylineui.pixelparts.CustomSeekBarPreference;
+import org.skylineui.pixelparts.R;
+import org.skylineui.pixelparts.utils.FileUtils;
 
 public class ChargeControlFragment extends PreferenceFragmentCompat
         implements OnCheckedChangeListener, Preference.OnPreferenceChangeListener {

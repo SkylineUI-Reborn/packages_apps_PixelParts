@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.evolution.pixelparts.pixeltorch;
+package org.skylineui.pixelparts.pixeltorch;
 
 import android.content.Context;
 import android.content.Intent;
@@ -19,9 +19,9 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceFragmentCompat;
 import androidx.preference.PreferenceManager;
 
-import org.evolution.pixelparts.Constants;
-import org.evolution.pixelparts.R;
-import org.evolution.pixelparts.utils.TileUtils;
+import org.skylineui.pixelparts.Constants;
+import org.skylineui.pixelparts.R;
+import org.skylineui.pixelparts.utils.TileUtils;
 
 public class PixelTorchFragment extends PreferenceFragmentCompat
         implements Preference.OnPreferenceChangeListener {

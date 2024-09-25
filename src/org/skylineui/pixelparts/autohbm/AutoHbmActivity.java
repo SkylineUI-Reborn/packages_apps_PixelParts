@@ -3,21 +3,21 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.evolution.pixelparts.saturation;
+package org.skylineui.pixelparts.autohbm;
 
 import android.os.Bundle;
 
 import com.android.settingslib.collapsingtoolbar.CollapsingToolbarBaseActivity;
 
-public class SaturationActivity extends CollapsingToolbarBaseActivity {
+public class AutoHbmActivity extends CollapsingToolbarBaseActivity {
 
-    private static final String TAG = "Saturation";
+    private static final String TAG = "AutoHbm";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
         getSupportFragmentManager().beginTransaction().replace(com.android.settingslib.collapsingtoolbar.R.id.content_frame,
-                new SaturationFragment(), TAG).commit();
+                new AutoHbmFragment(), TAG).commit();
     }
 }
